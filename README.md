@@ -1,7 +1,3 @@
-# Corbin's OpenSSF Scorecard Lab 4
-
-This repository is part of my Lab 4 assignment for CEN 3078, focused on security evaluation using OpenSSF Scorecard and Best Practices.
-
 ## 🛡️ Badges
 
 ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/CorbinIrish/corbinlab4/badge)
